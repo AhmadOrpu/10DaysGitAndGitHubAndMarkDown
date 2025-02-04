@@ -20,6 +20,10 @@ git push -u origin Master
 git push (gitHub er Master branch er sathe add hobe )
 git push origin /branchName (tumi exactly jei branch name e pathate chaw)
 
+//(akhn development branch theke kiso change kore oita push korte gele conflict korbe cz remote e tu development name kono branch nai .
+tai command dite hobe) -
+git push --set-upstream origin development
+
 
 //pull
 git pull
